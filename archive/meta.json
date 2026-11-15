@@ -1,0 +1,13 @@
+{
+  "bbox": "-51,-23,-39,-14",
+  "cell_deg": 0.1,
+  "created": "2026-11-15T02:13:02+00:00",
+  "rows": 1415265,
+  "format": "parquet",
+  "windows_ok": 2945,
+  "windows_missing": 0,
+  "date_range": [
+    "2010-01-01",
+    "2026-11-14"
+  ]
+}

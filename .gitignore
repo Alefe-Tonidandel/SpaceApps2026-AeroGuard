@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Streamlit secrets (NUNCA subir chaves de API)
+.streamlit/secrets.toml
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+
+# Backups & logs temporários
+*.bak
+*.bak2
+archive_log.txt
+archive_teste/
+archive/parts/
+.DS_Store
