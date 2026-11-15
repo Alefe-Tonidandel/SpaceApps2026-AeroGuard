@@ -1,5 +1,8 @@
 # AeroGuard — MODIS + VIIRS Hotspot Harmonization & Burning Activity Calendar
 
+**🌐 Live Web Application (No Login Required):** [https://aeroguard-spaceapps.streamlit.app](https://aeroguard-spaceapps.streamlit.app)
+
+
 NASA Space Apps Challenge 2026 · *Harmonization of MODIS and VIIRS Hot Spots*
 
 Satellite active-fire records are split across sensors that cannot be compared directly (MODIS 1 km vs. VIIRS 375 m, different
